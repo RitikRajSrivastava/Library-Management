@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="years">
+        <item> </item>
+        <item>Books @JC Library</item>
+        <item> </item>
+        <item>All Years       ></item>
+        <item>Ist Year        ></item>
+        <item>IInd Year       ></item>
+        <item>IIIrd Year      ></item>
+        <item>IVth Year</item>
+        <item>Other Books</item>
+        <item>"Back"</item>
+
+</string-array>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356695460688",
+    "firebase_url": "https://library-3e4de.firebaseio.com",
+    "project_id": "library-3e4de",
+    "storage_bucket": "library-3e4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356695460688:android:b362c3591715306c",
+        "android_client_info": {
+          "package_name": "com.ritikraj.librarymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356695460688-9vv4o3i0l8e2q0tlrs9qrc76vomovob1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnHipRnIU07lvFV7LYCOXZmZDybJDEfg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
